@@ -9,7 +9,7 @@ namespace Core
 {
     public class deneme
     {
-        public void deneme()
+        public void deneme2()
         {
             Console.WriteLine("hello");
 
